@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Surya Pratap Singh**
-- 👀 I’m interested in Blockchain and Web technologies
-- 🌱 I’m currently learning Web and Mastering DSA using Java
-- 💞️ I’m looking to collaborate on Frontend projects for now
+- 👀 I’m interested in Blockchain and Web technologies.
+- 🌱 I’m currently learning Web and Mastering DSA using C++.
+- 💞️ I’m looking to collaborate on Web projects.
 - 📫 To contact me, simply ping me here or on pratap1092001@gmail.com
 
 [![@suryapratap9's Holopin board](https://holopin.me/suryapratap9)](https://holopin.io/@suryapratap9)
